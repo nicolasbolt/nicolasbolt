@@ -5,7 +5,9 @@
 I'm a full-stack software engineer with 2 years of experience in Javascript and PHP.
 
 <div id="badges">
+<a href="https://www.linkedin.com/in/nicolas-bolt-59a523131/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+</a>
   <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge" alt="Portfolio Badge"/>
 </div>
 
