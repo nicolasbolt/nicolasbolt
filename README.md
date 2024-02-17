@@ -2,7 +2,7 @@
 
 **`Full Stack Software Engineer`**
 
-I'm a full-stack software engineer with 3 years of experience in Javascript, Python, and PHP.
+I'm a full-stack software engineer with 4 years of experience in Python, AWS, and Javascript.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/nicolas-bolt-59a523131/">
